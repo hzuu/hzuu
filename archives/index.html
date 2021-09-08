@@ -96,7 +96,7 @@
         },
       },
       qrcode: {
-        enable: true,
+        enable: false,
         type: 'url',
         image: 'https://pic.izhaoo.com/weapp-code.jpg',
       },
@@ -138,8 +138,6 @@
         <i class="iconfont iconhome j-navbar-back-home"></i>
       
       
-        <i class="iconfont iconqrcode j-navbar-qrcode"></i>
-      
       
         <i class="iconfont iconmoono" id="color-toggle" color-toggle="light"></i>
       
@@ -151,8 +149,6 @@
     <div class="right">
       <i class="iconfont iconmenu j-navbar-menu"></i>
     </div>
-    
-      <div id="qrcode-navbar"></div>
     
   </nav>
 
@@ -186,11 +182,17 @@
   <section class="archive">
     <div class="archive-container">
       <div class="archive-post">
-        <h3 class="archive-total">归档: 2 篇</h3>
+        <h3 class="archive-total">归档: 3 篇</h3>
         
         
           
             <h3 class="archive-year">2021 年</h3>
+          
+          <div class="archive-item">
+            <a class="archive-date" href="/2021/09/07/testsss/">九月 07</a>
+            <a class="archive-title" href="/2021/09/07/testsss/">新文章</a>
+          </div>
+        
           
           <div class="archive-item">
             <a class="archive-date" href="/2021/09/07/%E6%96%B0%E6%96%87%E7%AB%A0/">九月 07</a>
@@ -285,10 +287,6 @@
 
 
 
-
-
-  
-<script src="https://cdn.bootcdn.net/ajax/libs/jquery.qrcode/1.0/jquery.qrcode.min.js"></script>
 
 
 
