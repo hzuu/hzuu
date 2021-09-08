@@ -7,13 +7,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>新文章</title>
-    <url>/2021/09/07/3219307099.html/</url>
-    <content><![CDATA[<p>正文，这里是正文。新文章的正文。正文，这里是正文。新文章的正文。正文，这里是正文。新文章的正文。正文，这里是正文。新文章的正文。</p>
-<p><img  src="/article_cover_20210908_tudou.jpg"  ><span class="image-caption">照片</span></p>
-]]></content>
-  </entry>
-  <entry>
     <title>test</title>
     <url>/2021/09/07/3632233996.html/</url>
     <content><![CDATA[<p>正文，这里是正文。新文章的正文。正文，这里是正文。新文章的正文。正文，这里是正文。新文章的正文。正文，这里是正文。新文章的正文。</p>
@@ -36,6 +29,13 @@
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>新文章</title>
+    <url>/2021/09/07/3219307099.html/</url>
+    <content><![CDATA[<p>正文，这里是正文。新文章的正文。正文，这里是正文。新文章的正文。正文，这里是正文。新文章的正文。正文，这里是正文。新文章的正文。</p>
+<p><img  src="/article_cover_20210908_tudou.jpg"  ><span class="image-caption">照片</span></p>
 ]]></content>
   </entry>
 </search>
